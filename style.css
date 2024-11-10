@@ -1,0 +1,55 @@
+div{
+    display: flex;
+    width: 200px;
+    padding: 40px;
+    align-items: center;
+}
+
+.fa-square-twitter{
+    font-size: 50px;
+    color:rgb(23, 142, 189);
+}
+
+.fa-whatsapp{
+    font-size: 50px;
+    color:green;
+}
+
+.fa-instagram{
+    font-size: 50px;
+    color: orangered;
+}
+
+.fa-snapchat{
+    font-size: 50px;
+    color:yellow;
+}
+
+.fa-youtube{
+    font-size: 50px;
+    color:red;
+}
+
+.fa-spotify{
+    font-size: 50px;
+    color:green;
+}
+
+.fa-telegram{
+    font-size: 50px;
+    color:rgb(36, 154, 201);
+}
+
+.fa-facebook{
+    font-size: 50px;
+    color:blue;
+}
+
+.fa-apple{
+    font-size: 50px;
+}
+
+.fa-linkedin{
+    font-size: 50px;
+    color: rgb(19, 166, 224);
+}
